@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/rest_running"
+    android:title="@string/rest_running_records"/>
+    <item android:id="@+id/rest_cycling"
+        android:title="@string/reset_cycling_records"/>
+    <item android:id="@+id/rest_all"
+        android:title="@string/reset_all_records"/>
+</menu>
